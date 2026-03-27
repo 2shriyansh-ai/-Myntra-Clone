@@ -55,7 +55,10 @@ Pushes UI updates to browser (smooth animations).
 Prepares for future API integration (fetch products).
 
 
-Tech Stack
-- Frontend: HTML, CSS, JavaScript (or React/Tailwind)
-- Tools: GitHub, Netlify/Vercel for deployment
+⚙️ Tech Stack
 
+Frontend: HTML5 / CSS3 / Vanilla JavaScript
+Styling: CSS Grid + Flexbox (Responsive Design)
+State Management: localStorage (Cart & Wishlist)
+Data: Static JSON (Product Catalog)
+Tools: Git/GitHub + Netlify (Deployment)
