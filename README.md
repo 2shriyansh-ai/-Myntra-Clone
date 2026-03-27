@@ -66,8 +66,8 @@ Prepares for future API integration (fetch products).
 
 🛠 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript (or React / any framework you used)  
-- **Styling:** CSS (or Tailwind / Bootstrap if you used) [web:5]  
+- **Frontend:** HTML, CSS, JavaScript 
+- **Styling:** CSS 
 - **Tools:**  
   - VS Code  
   - Git / GitHub  
