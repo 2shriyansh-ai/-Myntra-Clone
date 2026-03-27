@@ -2,6 +2,15 @@ Myntra Clone 🚀
 
 A responsive clone of Myntra.com, India's premier fashion e-commerce site, featuring product browsing, cart, wishlist, and search.
 
+🎯 Features
+
+- Responsive layout (mobile, tablet, desktop)  
+- Myntra‑style navigation bar with categories  
+- Product listing section (cards with images, name, price, ratings, etc.)  
+- Basic filters/sorting UI (can be extended later)  
+- Simple cart/bag concept (static or mock‑interactive)  
+- Clean, modular HTML/CSS/JS structure (or whichever stack you used)  
+
 🏗️ Architecture
 
 The flow of the system:
@@ -55,10 +64,11 @@ Pushes UI updates to browser (smooth animations).
 Prepares for future API integration (fetch products).
 
 
-⚙️ Tech Stack
+🛠 Tech Stack
 
-Frontend: HTML5 / CSS3 / Vanilla JavaScript
-Styling: CSS Grid + Flexbox (Responsive Design)
-State Management: localStorage (Cart & Wishlist)
-Data: Static JSON (Product Catalog)
-Tools: Git/GitHub + Netlify (Deployment)
+- **Frontend:** HTML, CSS, JavaScript (or React / any framework you used)  
+- **Styling:** CSS (or Tailwind / Bootstrap if you used) [web:5]  
+- **Tools:**  
+  - VS Code  
+  - Git / GitHub  
+  - Browser dev tools for responsiveness  
